@@ -10,9 +10,10 @@ This project presents an analysis of layoffs from companies around the world, wi
 
 - <b>Python</b> 
 - <b>Pandas</b>
-- <b>PivotChart</b>
-- <b>Charts & Graphs</b>
+- <b>MAX()</b>
+- <b>MIN()</b>
+- <b>MEAN()</b>
 
 <h2>File Access</h2>
 
-- <b>Please click the file about to view the project</b>
+- <b>Please click the PYTHON file above to view the project</b>
